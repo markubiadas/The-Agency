@@ -89,6 +89,14 @@ body {
     margin-bottom: 1rem;
 }
 
+/* Contact Us Section */
+.contact-us-header {
+    text-align: center;
+}
+
+.contact-us-header h2 {
+    font-weight: 700;
+}
 
 /* Media Queries */
 
