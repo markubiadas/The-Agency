@@ -46,6 +46,30 @@ body {
     width: 70%;
 }
 
+/* Companies Section */
+.companies-heading {
+    text-align: center;
+}
+
+.companies-heading h2 {
+    font-weight: 700;
+}
+
+.companies-content {
+    text-align: center;
+    mix-blend-mode: darken;
+    margin: 50px 0;
+    padding: 50px 0;
+}
+
+.companies-icons-1 {
+    width: 80%;
+}
+
+.companies-icons-2 {
+    width: 70%;
+}
+
 /* Services Section */
 .services-banner {
     background-color: #B46060;
@@ -178,5 +202,13 @@ footer {
 @media only screen and (max-width: 499px){
     #home-section img {
         width: 90vw;
+    }
+
+    .companies-icons-1 {
+        width: 100%;
+    }
+    
+    .companies-icons-2 {
+        width: 100%;
     }
 }
