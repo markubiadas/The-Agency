@@ -136,9 +136,9 @@ footer {
     color: rgb(244, 244, 244);
 }
 
-footer img {
+.footer-img {
     mix-blend-mode:screen;
-    width: 100px;
+    width: 150px;
 }
 
 .footer-links {
@@ -152,9 +152,25 @@ footer img {
     color: rgb(244, 244, 244);
 }
 
-.logo-place-holder {
-    visibility: hidden;
+.footer-social-media {
+    text-align: center;
 }
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-icons li {
+    list-style: none;
+}
+
+.social-media-icons i {
+    font-size: 2rem;
+    margin: 0 5px;
+}
+
+
 
 /* Media Queries */
 
