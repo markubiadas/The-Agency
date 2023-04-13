@@ -130,6 +130,31 @@ body {
     font-weight: 700;
 }
 
+/* Footer Section */
+footer {
+    background-color: #B46060;
+    color: rgb(244, 244, 244);
+}
+
+footer img {
+    mix-blend-mode:screen;
+    width: 100px;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: rgb(244, 244, 244);
+}
+
+.logo-place-holder {
+    visibility: hidden;
+}
 
 /* Media Queries */
 
