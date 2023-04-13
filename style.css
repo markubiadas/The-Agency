@@ -98,6 +98,27 @@ body {
     font-weight: 700;
 }
 
+.contact-us-info li {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+}
+
+.contact-us-info ul {
+    padding-left: 0;
+}
+
+.contact-us-map {
+    text-align: center;
+}
+
+.contact-us-map iframe {
+    width: 100%;
+    height: 500px;
+    
+}
+
+
 /* Media Queries */
 
 /* Phone */
