@@ -1,6 +1,6 @@
 # The Agency
  
-<a href="https://the-agency-site.netlify.app/" target="_blank" rel="noreferrer noopener">live site</a>
+<a href="https://the-agency-site.netlify.app/" target="_blank" rel="noreferrer noopener">Live site</a>
 
 <h3>Welcome to The Agency</h3>
 <p>The Agency is a full-service digital marketing and business consulting firm that helps businesses grow to higher levels. Our team of experienced professionals works closely with each client to develop customized digital marketing strategies, provide business consulting services, and design and develop professional websites that are optimized for search engines and mobile devices.</p>
