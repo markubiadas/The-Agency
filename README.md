@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/HBZxC18.png" alt="project-image"></p>
+
 # The Agency
  
 <a href="https://the-agency-site.netlify.app/" target="_blank" rel="noreferrer noopener">Live site</a>
